@@ -1,6 +1,10 @@
-### Hi there 👋
+### About Me
+Hello there!
+
+My name is Vyshnavi Daka. I am a data science enthusiast with a strong background in electrical engineering and experience in software development. I am currently pursuing a Master's degree in Information Technology and Management at the University of Texas at Dallas, where I have honed my skills in machine learning, natural language processing, and data analysis.
 
 <!--
+
 **Vyshnavi153/Vyshnavi153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
