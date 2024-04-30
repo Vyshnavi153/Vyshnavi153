@@ -17,13 +17,13 @@ My name is Vyshnavi Daka. I am a data science enthusiast with a strong backgroun
 
 <p align="left">
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/qt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/React-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/plsql%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/PL/SQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -32,6 +32,7 @@ My name is Vyshnavi Daka. I am a data science enthusiast with a strong backgroun
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
 </p>
 
 ![Vyshnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vyshnavi153&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=false&disable_animations=false)
