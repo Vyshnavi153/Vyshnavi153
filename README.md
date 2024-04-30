@@ -1,6 +1,6 @@
 
 Hello there! 
-
+![](https://komarev.com/ghpvc/?username=Vyshnavi153&style=flat-square)
 My name is Vyshnavi Daka. I am a data science enthusiast with a strong background in electrical engineering and experience in software development. I am currently pursuing a Master's degree in Information Technology and Management at the University of Texas at Dallas, where I have honed my skills in machine learning, natural language processing, and data analysis.
 
 ![Vyshnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vyshnavi153&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_title=true&hide_border=true&hide_rank=false&disable_animations=false)
