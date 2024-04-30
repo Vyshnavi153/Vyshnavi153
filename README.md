@@ -1,9 +1,4 @@
-### About Me
-<div align="center">
-    <h1>Vyshnavi Daka</h1>
-    <img src="https://i.imgur.com/OjXEVlg.png" alt="Data Science" width="200">
-    <p>Data Science Professional</p>
-</div>
+
 Hello there!
 
 My name is Vyshnavi Daka. I am a data science enthusiast with a strong background in electrical engineering and experience in software development. I am currently pursuing a Master's degree in Information Technology and Management at the University of Texas at Dallas, where I have honed my skills in machine learning, natural language processing, and data analysis.
